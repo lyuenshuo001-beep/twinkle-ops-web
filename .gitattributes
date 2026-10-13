@@ -1,0 +1,4 @@
+*.unityweb -text
+*.html text eol=lf
+*.md text eol=lf
+*.js text eol=lf
