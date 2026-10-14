@@ -1,1 +1,1 @@
-Phase 1 build. See Docs/QA.md for manual acceptance requirements.
+V1.1 early playable build. See Docs/V1.1-QA.md for verified behavior and remaining art/animation limitations.
